@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewStatesSupport</string>
+    <string name="loadingState">Loading</string>
+    <string name="success">Success</string>
+    <string name="empty">Empty</string>
+    <string name="emptyList">Empty list.</string>
+</resources>
